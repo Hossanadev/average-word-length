@@ -1,2 +1,2 @@
 # average-word-length
-Sololearn Python Code Project 2.
+Sololearn: Python Data Structure - Code Project 2.
